@@ -1,12 +1,9 @@
 const express = require('express');
+const productController = require(`${__dirname}/../controllers/productController`);
 
 const router = express.Router();
 
-router.route('/').get((req, res) => {
-  res.status(200).json({
-    status: 'success',
-    message: 'Hello there for the first time',
-  });
-});
+router.route('/').get(productController.getAllProducts);
+router.route('/:id').get(productController.getProduct);
 
 module.exports = router;
