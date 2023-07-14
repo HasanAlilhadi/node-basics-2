@@ -3,60 +3,60 @@
     "productName": "Widget 1",
     "productPrice": 9.99,
     "productSummary": "A versatile and durable widget for various applications.",
-    "productWeight": "100g"
+    "productWeight": 100
   },
   {
     "productName": "Gizmo 2",
     "productPrice": 14.99,
     "productSummary": "An advanced gizmo with cutting-edge features.",
-    "productWeight": "150g"
+    "productWeight": 150
   },
   {
     "productName": "Thingamabob 3",
     "productPrice": 24.99,
     "productSummary": "A high-quality thingamabob for everyday use.",
-    "productWeight": "200g"
+    "productWeight": 200
   },
   {
     "productName": "Doohickey 4",
     "productPrice": 7.99,
     "productSummary": "A compact and portable doohickey for on-the-go needs.",
-    "productWeight": "80g"
+    "productWeight": 80
   },
   {
     "productName": "Whatchamacallit 5",
     "productPrice": 19.99,
     "productSummary": "A stylish and functional whatchamacallit for any occasion.",
-    "productWeight": "180g"
+    "productWeight": 180
   },
   {
     "productName": "Thingummy 6",
     "productPrice": 12.99,
     "productSummary": "A user-friendly thingummy with intuitive controls.",
-    "productWeight": "120g"
+    "productWeight": 120
   },
   {
     "productName": "Doodad 7",
     "productPrice": 6.99,
     "productSummary": "An affordable and reliable doodad for everyday tasks.",
-    "productWeight": "90g"
+    "productWeight": 90
   },
   {
     "productName": "Contraption 8",
     "productPrice": 29.99,
     "productSummary": "An innovative contraption designed for efficiency.",
-    "productWeight": "250g"
+    "productWeight": 250
   },
   {
     "productName": "Gadget 9",
     "productPrice": 16.99,
     "productSummary": "A feature-packed gadget with endless possibilities.",
-    "productWeight": "160g"
+    "productWeight": 160
   },
   {
     "productName": "Gizmo 10",
     "productPrice": 11.99,
     "productSummary": "A compact and lightweight gizmo for everyday use.",
-    "productWeight": "110g"
+    "productWeight": 110
   }
 ]
