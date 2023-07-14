@@ -6,7 +6,6 @@ const productSchema = mongoose.Schema({
   productWeight: String,
   productSummary: String,
 });
-
 const Product = mongoose.model('product', productSchema);
 
 module.exports = Product;
