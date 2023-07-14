@@ -1,0 +1,62 @@
+[
+  {
+    "productName": "Widget 1",
+    "productPrice": 9.99,
+    "productSummary": "A versatile and durable widget for various applications.",
+    "productWeight": "100g"
+  },
+  {
+    "productName": "Gizmo 2",
+    "productPrice": 14.99,
+    "productSummary": "An advanced gizmo with cutting-edge features.",
+    "productWeight": "150g"
+  },
+  {
+    "productName": "Thingamabob 3",
+    "productPrice": 24.99,
+    "productSummary": "A high-quality thingamabob for everyday use.",
+    "productWeight": "200g"
+  },
+  {
+    "productName": "Doohickey 4",
+    "productPrice": 7.99,
+    "productSummary": "A compact and portable doohickey for on-the-go needs.",
+    "productWeight": "80g"
+  },
+  {
+    "productName": "Whatchamacallit 5",
+    "productPrice": 19.99,
+    "productSummary": "A stylish and functional whatchamacallit for any occasion.",
+    "productWeight": "180g"
+  },
+  {
+    "productName": "Thingummy 6",
+    "productPrice": 12.99,
+    "productSummary": "A user-friendly thingummy with intuitive controls.",
+    "productWeight": "120g"
+  },
+  {
+    "productName": "Doodad 7",
+    "productPrice": 6.99,
+    "productSummary": "An affordable and reliable doodad for everyday tasks.",
+    "productWeight": "90g"
+  },
+  {
+    "productName": "Contraption 8",
+    "productPrice": 29.99,
+    "productSummary": "An innovative contraption designed for efficiency.",
+    "productWeight": "250g"
+  },
+  {
+    "productName": "Gadget 9",
+    "productPrice": 16.99,
+    "productSummary": "A feature-packed gadget with endless possibilities.",
+    "productWeight": "160g"
+  },
+  {
+    "productName": "Gizmo 10",
+    "productPrice": 11.99,
+    "productSummary": "A compact and lightweight gizmo for everyday use.",
+    "productWeight": "110g"
+  }
+]
